@@ -1,0 +1,10 @@
+Project1: The Doubler
+
+Prereq:
+1) Knows how to read in values from CIN
+2) Knows how to write values to COUT
+3) Knows basic variables
+
+Goal:
+Read in a value from CIN. 
+Print out to COUT the arithmatic double.

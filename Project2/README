@@ -1,0 +1,11 @@
+Project2: Negative Check
+
+Prereq:
+1) Knows how to read in values from CIN
+2) Knows how to write values to COUT
+3) Knows basic if statements
+
+Goal:
+Read in a value from CIN. 
+If the value is negative print out: "The value is negative."
+If the value is not negative print out: "The value is not negative."
